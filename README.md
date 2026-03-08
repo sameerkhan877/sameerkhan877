@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @sameerkhan877
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sameerkhan877/sameerkhan877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Sameer Khan, a BSc IT student interested in software and web development. 
+I work with HTML, CSS, JavaScript, C#, ASP.NET Core, Entity Framework, SQL Server, and Bootstrap.
+I enjoy building practical web applications and improving my development and problem-solving skills through real-world projects.
